@@ -1,4 +1,5 @@
 This is a dataset link https://www.kaggle.com/competitions/playground-series-s4e9
+Accuracy is 94 % :
 
 ---
 
@@ -97,10 +98,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-### Pro-Tip for your GitHub Repo:
-
-Since your notebook includes visualizations (like loss curves or price distributions), I highly recommend saving those plots as `.png` files and adding them to a `/images` folder in your repo. You can then embed them in the README using `![Alt Text](images/plot.png)` to make the page even more visually appealing!
-
-**Would you like me to help you write a "Model Performance" section if you have specific MAE/MSE results from your training?**
-
-By the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).
