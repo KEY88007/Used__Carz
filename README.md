@@ -1,6 +1,4 @@
-This is a great project! Based on your **USED-NN.ipynb** notebook, it’s clear you are working on a Deep Learning regression model to predict vehicle prices. A professional README not only makes your GitHub profile look better but also helps others (and future employers) understand your work quickly.
-
-Here is a template you can copy and paste directly into your `README.md` file.
+This is a dataset link https://www.kaggle.com/competitions/playground-series-s4e9
 
 ---
 
